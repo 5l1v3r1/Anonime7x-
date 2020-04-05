@@ -39,3 +39,5 @@ $ python3 Anonime7x.py
 
 # Hamza Anonime √
 قيم الأداة فضلا وليس أمرا <<<<>>>>>
+Follow me 
+Instagram :Hamza.anonime
