@@ -24,8 +24,11 @@ WE ARE NOT RESPONSIBLE FOR ANY BLACKHAT ACTIVITY.
 
 
 # Usage
+
 $ cd Anonime7x-
+
 $ls
+
 $pip3 install scapy
 
 $pip3 install geocoder
